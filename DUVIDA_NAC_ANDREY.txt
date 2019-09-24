@@ -1,0 +1,5 @@
+duvidas
+*nao teria que ter um insert(add) usuario na USUARIODAO?
+*na ValetDAO, porque criou um arrayList?Se temos o banco para isso?
+*Porque usar o metodo proxID()
+*Porque na UsuarioBO o metodo de validar login nao valida o login so da um return new?
